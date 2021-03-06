@@ -17,9 +17,8 @@ body {
 
 /* adds a hover effect on the links at the top of the navigation area*/
 a:hover {
-    color:slategrey;
+    color:#2589bd;
     background-color: white;
-    color: #d9dcd6;
 }
 
 aside {
