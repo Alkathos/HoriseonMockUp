@@ -56,7 +56,6 @@ p {
     font-size: 16px;
 }
 
-/*used*/
 .hero {
     height: 800px;
     width: 100%;
@@ -66,7 +65,6 @@ p {
     background-position: center;
 }
 
-/*used*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,21 +72,19 @@ p {
     display: inline;
 }
 
-/*used*/
 .float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
 
-/*used*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*used*/
+/*background for the right side section that lists benefits*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -107,20 +103,17 @@ p {
     color: #ffffff;
 }
 
-/*used*/
 .benefitheader{
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*used*/
 .benefitsimg {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*used*/
 .bodyStyle {
     margin-bottom: 20px;
     padding: 50px;
@@ -130,13 +123,11 @@ p {
     color: #ffffff;
 }
 
-/*used*/
 .conentHeaderTwo {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*used*/
 .footer {
     padding: 30px;
     clear: both;
@@ -144,7 +135,6 @@ p {
     text-align: center;
 }
 
-/*used*/
 .footer h2 {
     font-size: 20px;
 }
