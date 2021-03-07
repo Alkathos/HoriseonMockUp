@@ -14,4 +14,4 @@ Week 1 bootcamp homework that we needed to refactor
 # Changes to CSS
 
 - made a benefitsTitle class to decrease the amount of classes that were being used to do the same exact thing (eliminated the individual classes for each benefit, had the same CSS code)
-- 
+- added a mouse over function on the navigation links
